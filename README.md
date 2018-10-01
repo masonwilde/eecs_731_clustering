@@ -1,7 +1,13 @@
-eeccs_731_clustering
+eecs_731_clustering
 ==============================
 
 A practice in clustering
+
+Movie data was pulled with ratings, tags, and movie titles
+A single most common tag was extracted for each movie
+A pivot table was then created to compare movies, and their tags.
+The correlation ethod of pivot tables was used to create a table of similarities
+KMeans clustering was then used on the movie rating and tag to produce a graph showing clustering by rating and tag.
 
 Project Organization
 ------------
